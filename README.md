@@ -77,7 +77,7 @@ cd asset-monitor
 npm install
 
 # Start development server
-npm start
+npm run dev
 ```
 
 The app will open at `http://localhost:3000`.
@@ -90,7 +90,7 @@ The app will open at `http://localhost:3000`.
 npm run build
 ```
 
-Output is in the `build/` folder, ready for deployment to any static host (Netlify, Vercel, GitHub Pages, etc.).
+Output is in the `dist/` folder, ready for deployment to any static host (Netlify, Vercel, GitHub Pages, etc.).
 
 ---
 
